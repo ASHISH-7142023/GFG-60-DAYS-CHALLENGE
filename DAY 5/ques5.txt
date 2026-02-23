@@ -1,4 +1,4 @@
-Count Subarrays with given XOR
+Count Subarrays with given XOR - 
 
 Difficulty: Medium
 Given an array of integers arr[] and a number k, count the number of subarrays having XOR of their elements as k.
