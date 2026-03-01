@@ -1,5 +1,4 @@
 Find H-Index ---
-
 Difficulty: Medium
 
 Question - You are given an array citations[], where each element citations[i] represents the number of citations received by the ith paper of a researcher. You have to calculate the researcher’s H-index.

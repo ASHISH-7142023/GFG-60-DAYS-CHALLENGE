@@ -11,7 +11,6 @@ public:
         vector<int> ans;
         for (auto it : s)
             ans.push_back(it);
-
         return ans;
     }
 };

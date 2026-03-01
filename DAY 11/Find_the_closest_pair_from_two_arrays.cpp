@@ -5,10 +5,8 @@ public:
     {
         int n = arr1.size();
         int m = arr2.size();
-
         int left = 0;
         int right = m - 1;
-
         long long min_diff = LLONG_MAX;
         vector<int> res(2);
 
@@ -34,7 +32,6 @@ public:
                 return {arr1[left], arr2[right]};
             }
         }
-
         return res;
     }
 };

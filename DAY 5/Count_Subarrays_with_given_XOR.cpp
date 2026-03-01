@@ -3,7 +3,6 @@ class Solution
 public:
     long subarrayXor(vector<int> &arr, int k)
     {
-        // code here
         int n = size(arr);
         unordered_map<int, int> mp;
         int preXor = 0, count = 0;
