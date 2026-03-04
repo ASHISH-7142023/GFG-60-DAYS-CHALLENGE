@@ -1,4 +1,4 @@
-🚀 GFG x NPCI: 60-Day POTD Challenge
+🚀 GFG x NPCI: 60-Day POTD Challenge --- 
 
 This repository contains my daily solutions for the 60-Day Problem of the Day (POTD) Challenge on GeeksforGeeks, powered by the National Payments Corporation of India (NPCI).
 
