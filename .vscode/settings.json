@@ -60,6 +60,7 @@
   "python-envs.defaultPackageManager": "ms-python.python:conda",
   "python-envs.pythonProjects": [],
   "cSpell.words": [
+    "Accolite",
     "subarrays"
   ],
   "C_Cpp.errorSquiggles": "enabled"
